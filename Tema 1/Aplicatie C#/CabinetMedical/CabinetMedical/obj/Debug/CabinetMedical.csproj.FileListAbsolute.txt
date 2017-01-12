@@ -1,0 +1,12 @@
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\bin\Debug\CabinetMedical.exe.config
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.csprojResolveAssemblyReference.cache
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.Form1.resources
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.Properties.Resources.resources
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.csproj.GenerateResource.Cache
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\bin\Debug\CabinetMedical.exe
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\bin\Debug\CabinetMedical.pdb
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.exe
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.pdb
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.AnalizeLaborator.resources
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.Consultatie.resources
+c:\users\ffudulu\documents\visual studio 2015\Projects\CabinetMedical\CabinetMedical\obj\Debug\CabinetMedical.Radiografii.resources
